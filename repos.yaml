@@ -1,0 +1,6 @@
+repos:
+  - name: spool
+    url: https://github.com/qmdnls/spool.git
+    editable: true
+    install: uv
+    path: .
